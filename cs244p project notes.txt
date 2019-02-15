@@ -1,0 +1,11 @@
+拐杖
+* 脈搏 (SparkFun Particle Sensor Breakout)
+* Accelerometer (檢測跌倒) (SparkFun 9DoF Sensor Stick)
+* GPS定位 (SparkFun Mini GPS Shield)
+* 身份辨識 (Fingerprint scanner)
+- 握力 (Force Detection)
+- 體溫 (Biomedical sensor)
+
+
+Application:
+- Heart rate, step count, falling, user’s identity 
