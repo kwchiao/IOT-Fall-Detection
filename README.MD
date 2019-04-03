@@ -57,7 +57,7 @@ When falling movement is detected by our device, email alert is sent for notific
 
 ## Contributors
 * **Kuo-Wei Chiao**
-* **[Iris Wu](https://github.com/pinyingiriswu/)**
+* **[Pin-Ying Wu](https://github.com/pinyingiriswu/)**
 
 
 ## Acknowledgments & References
