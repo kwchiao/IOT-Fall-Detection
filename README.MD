@@ -14,6 +14,15 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
+### Wiring
+
+* SDA -> 4
+* SCL -> 5
+* GND -> GND
+* 3.3V -> 3.3V
+
+![wiring](sparkfun_wiring.JPG)
+
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running
