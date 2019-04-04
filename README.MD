@@ -36,8 +36,8 @@ Services used in Azure cloud platform (see the ones circled in red):
 
 <img src="images/service_list.png"  width="480" >
 
-## Fall-Dection Algoirthm
-We used the fall-detection algorithm from [here](https://www.instructables.com/id/Emergency-Fall-Notifier-Cum-Panic-Button/)). The algorithm is developed based on the transitions of the falling movement. When a person falls, he/she first senses 
+## Fall-Detection Algorithm
+We used the fall-detection algorithm from [here](https://www.instructables.com/id/Emergency-Fall-Notifier-Cum-Panic-Button/). The algorithm is developed based on the transitions of the falling movement. When a person falls, he/she first senses 
 
 1. a temporary moment of freefall, followed by 
 2. increasing acceleration, then eventually 
