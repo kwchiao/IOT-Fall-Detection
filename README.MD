@@ -1,6 +1,6 @@
 # Fall Detection with Email Alert
 
-Our device is inspired by and designed for elders who use walking canes for mobility assistance. To ensure the safety of the elders, we implemented fall detection in our device to sense any falling movements of the elderly people and trigger email alerts to notify their carers when the falling accident happens. Our device utilizes the SparkFun Thing development board and accelerometer/gyroscope sensor to detect movements and continuously send movement data to the Azure IoT hub for data collection. For the purpose of remote monitoring and instant email notifications, we connect our IoT hub and mailbox with the help of Azure Logic Apps. The Azure Logic Apps provides a way to connect across various services and protocols, which makes it a decent IoT solution for monitoring. 
+We implemented fall detection in our device to sense any falling movements and trigger email alerts to notify registered users when the falling accident happens. Our device utilizes the SparkFun Thing development board and accelerometer/gyroscope sensor to detect movements and continuously send movement data to the Azure IoT hub for data collection. For the purpose of remote monitoring and instant email notifications, we connect our IoT hub and mailbox with the help of Azure Logic Apps. The Azure Logic Apps provides a way to connect across various services and protocols, which makes it a decent IoT solution for monitoring. 
 
 A brief architecture diagram is shown below to demonstrate our idea for fall detection device:
 
